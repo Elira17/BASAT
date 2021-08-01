@@ -3,6 +3,7 @@
 ## Ayuda a los negocios pequeños a darse de alta en el SAT de manera más fácil y elllos puedan obtener una validación dentro de los negocios seguros en BaSat
 
 # Link al Tiktok
+![video](https://vm.tiktok.com/ZMd3JbTj5/)
 
 # Diagrama de Azure
 ![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/87052761/127777581-5629222e-95ce-4b53-86a8-120005f48e76.png)
