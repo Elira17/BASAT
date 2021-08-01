@@ -5,6 +5,7 @@
 # Link al Tiktok
 
 # Diagrama de Azure
+![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/87052761/127777581-5629222e-95ce-4b53-86a8-120005f48e76.png)
 
 # SLA Compuesto
 ![VERIFICA Y VÁLIDA TU NEGOCIO (2)](https://user-images.githubusercontent.com/87052761/127762281-b169dc49-96c9-45cd-8d3d-bbbf07ba44d9.png)
