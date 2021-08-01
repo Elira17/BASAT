@@ -7,6 +7,7 @@
 # Diagrama de Azure
 
 # SLA Compuesto
+![VERIFICA Y VÁLIDA TU NEGOCIO](https://user-images.githubusercontent.com/87052761/127761999-24b3673c-5fb1-4733-abe3-81deb320793a.png)
 
 # TCO 3 años y Precio Total por mes
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/87052761/127760252-24184b7f-af99-482a-8429-6fc17ac13452.png)
@@ -16,5 +17,6 @@
 ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/87052761/127760268-1263bc11-2ffd-4d29-8a88-76bd59785fbb.png)
 
 # Tiempo sin disponibilidad a un año
-
+![VERIFICA Y VÁLIDA TU NEGOCIO (1)](https://user-images.githubusercontent.com/87052761/127762054-9469f38e-689a-47de-bb24-e3ba925eb332.png)
 # Qué te pareció el evento
+
