@@ -21,4 +21,5 @@
 # Tiempo sin disponibilidad a un año
 ![VERIFICA Y VÁLIDA TU NEGOCIO (1)](https://user-images.githubusercontent.com/87052761/127762054-9469f38e-689a-47de-bb24-e3ba925eb332.png)
 # Qué te pareció el evento
+### Muy bueno con muchas emociones dinámicas buenas para proseguir
 
